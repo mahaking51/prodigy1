@@ -2,7 +2,7 @@
 ## Prerequisite 
 
 * install NodeJS
-* install MongoDB
+
 ## Installation
 Clone this repository.  
 
